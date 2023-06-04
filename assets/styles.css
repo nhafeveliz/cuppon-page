@@ -1,0 +1,25 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+img{
+    width: 82px;
+}
+i{
+    font-weight: 100;
+}
+.precio0{
+    max-width:80%;
+}
+.precio1{
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.precio2{
+    font-size: 20px;
+    color:#28A745;
+    font-weight:bold;
+}
+form{
+    background-color: #28A745;
+}
